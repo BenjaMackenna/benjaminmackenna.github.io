@@ -10,12 +10,6 @@ La página web incluye información sobre la biografía, experiencia laboral, pr
 
 - `index.html`: Archivo principal que contiene el código HTML de la página web.
 
-## Publicación en GitHub Pages
-
-La página está publicada utilizando GitHub Pages. Puedes acceder a la página en la siguiente URL:
-
-[https://tu-usuario.github.io/nombre-del-repositorio](https://tu-usuario.github.io/nombre-del-repositorio)
-
 ## Secciones
 
 ### Biografía
