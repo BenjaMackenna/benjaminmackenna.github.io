@@ -1,10 +1,10 @@
-# Benjamín Emilio Mackenna González - Página Personal
+# Benjamín Mackenna - Página Personal
 
-Este repositorio contiene el código fuente de la página personal de Benjamín Emilio Mackenna González.
+Este repositorio contiene el código fuente de la página personal de Benjamín Mackenna.
 
 ## Descripción
 
-La página web incluye información sobre la biografía, experiencia laboral, proyectos, habilidades, certificaciones, educación y contacto de Benjamín Emilio Mackenna González. También cuenta con una sección de hobbies y una línea de tiempo que destaca las habilidades blandas y técnicas adquiridas a lo largo del tiempo.
+La página web incluye información sobre la biografía, experiencia laboral, proyectos, habilidades, certificaciones, educación y contacto de Benjamín Mackenna. También cuenta con una sección de hobbies y una línea de tiempo que destaca las habilidades blandas y técnicas adquiridas a lo largo del tiempo.
 
 ## Contenido
 
@@ -14,7 +14,7 @@ La página web incluye información sobre la biografía, experiencia laboral, pr
 
 ### Biografía
 
-Incluye una breve biografía de Benjamín Emilio Mackenna González.
+Incluye una breve biografía de Benjamín Mackenna
 
 ### Experiencia Laboral
 
